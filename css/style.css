@@ -39,7 +39,7 @@ a:hover,a:focus,a:active {
 	outline:none!important;
 }
 p {
-	color:#8c9398;
+	color: #595d60;
 	word-spacing:1px;
 	line-height:25px;
 	font-size:14px;
@@ -468,7 +468,7 @@ table {
 	text-transform: uppercase;
 }
 .hero h1 span {
-	color:#a1a9b0;
+	color: #161e26;
 	/* display:inline-block; */
 }
 .hero h3 {
@@ -579,11 +579,11 @@ h1.arrow span {
 	background-size:cover;
 }
 .color-bg {
-	background: #E04343;
+	background: #2c969c;
 }
 
 .color-bg a {
-    color: #FFE800;
+    color: #e6b4f9;
 }
 .color-bg h6, .color-bg p {
     color: white;
@@ -609,7 +609,7 @@ h1.arrow span {
 	color: #8C8C8C;
 }
 .color-bg h1.arrow span {
-    color: #FFE800;
+    color: #d3c727;
 }
 .color-bg h1.arrow {
     color: #FFF;
@@ -666,8 +666,8 @@ i.respons {
 	border-radius:50%;
 	-webkit-transition:all .3s ease-out;
 	transition:all .3s ease-out;
-	border:1px solid #CCCCCC;
-	color: #CCCCCC;
+	border:1px solid #838383;
+	color: #929191;
 }
 /* ==========================================================================iPhone Section========================================================================== */
 .iphone {
