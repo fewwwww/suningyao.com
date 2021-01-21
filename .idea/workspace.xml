@@ -3,25 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="21dac2f4-df10-46fb-b0f3-f0501efbec0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/header-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-01-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-01-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-02-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-02-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-03-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-03-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-04-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-04-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-05-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-05-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-06-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-06-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-07-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-07-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-08-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-08-thumbnail.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611227095741</updated>
       <workItem from="1611227096832" duration="1665000" />
-      <workItem from="1611228769109" duration="9827000" />
+      <workItem from="1611228769109" duration="10803000" />
     </task>
     <servers />
   </component>
