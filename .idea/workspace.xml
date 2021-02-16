@@ -56,7 +56,7 @@
       <workItem from="1613492185350" duration="370000" />
       <workItem from="1613493819021" duration="190000" />
       <workItem from="1613500388252" duration="629000" />
-      <workItem from="1613501525834" duration="396000" />
+      <workItem from="1613501525834" duration="881000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1613493993586</created>
@@ -93,7 +93,35 @@
       <option name="project" value="LOCAL" />
       <updated>1613501872101</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="disable animation on mobile">
+      <created>1613502138945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613502138945</updated>
+    </task>
+    <task id="LOCAL-00007" summary="preloader">
+      <created>1613502208745</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613502208745</updated>
+    </task>
+    <task id="LOCAL-00008" summary="preloader">
+      <created>1613502283301</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613502283301</updated>
+    </task>
+    <task id="LOCAL-00009" summary="disable animation on mobile">
+      <created>1613502324933</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613502324933</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
+    <MESSAGE value="preloader" />
     <MESSAGE value="disable animation on mobile" />
     <option name="LAST_COMMIT_MESSAGE" value="disable animation on mobile" />
   </component>
