@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21dac2f4-df10-46fb-b0f3-f0501efbec0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/lightbox/img/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/lightbox/img/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/lightbox/img/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/lightbox/img/prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="21dac2f4-df10-46fb-b0f3-f0501efbec0f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +59,7 @@
       <workItem from="1613501525834" duration="1022000" />
       <workItem from="1613503912781" duration="2319000" />
       <workItem from="1613899237178" duration="1035000" />
-      <workItem from="1613900286027" duration="3098000" />
+      <workItem from="1613900286027" duration="3545000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1613493993586</created>
@@ -222,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613903148502</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="faster">
+      <created>1613904184036</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1613904184036</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +248,7 @@
     <MESSAGE value="fix cdn" />
     <MESSAGE value="disable google maps api" />
     <MESSAGE value="smaller faster" />
-    <option name="LAST_COMMIT_MESSAGE" value="smaller faster" />
+    <MESSAGE value="faster" />
+    <option name="LAST_COMMIT_MESSAGE" value="faster" />
   </component>
 </project>
