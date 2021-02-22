@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21dac2f4-df10-46fb-b0f3-f0501efbec0f" name="Default Changelist" comment="" />
+    <list default="true" id="21dac2f4-df10-46fb-b0f3-f0501efbec0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +62,7 @@
       <workItem from="1613503912781" duration="2319000" />
       <workItem from="1613899237178" duration="1035000" />
       <workItem from="1613900286027" duration="3545000" />
+      <workItem from="1613915964459" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1613493993586</created>
@@ -222,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613904184036</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="defer unneeded(or maybe needed) script">
+      <created>1613916185343</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1613916185343</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +259,7 @@
     <MESSAGE value="disable google maps api" />
     <MESSAGE value="smaller faster" />
     <MESSAGE value="faster" />
-    <option name="LAST_COMMIT_MESSAGE" value="faster" />
+    <MESSAGE value="defer unneeded(or maybe needed) script" />
+    <option name="LAST_COMMIT_MESSAGE" value="defer unneeded(or maybe needed) script" />
   </component>
 </project>
