@@ -453,11 +453,20 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	background: url('../img/header-bg.jpg') right bottom no-repeat;
-	background-size: contain;
 	padding:110px 0 100px 0;
 	height:auto;
 	background-color: #FBFBFB;
+}
+.hero::before {
+	content:"";
+	background: url('../img/header-bg.jpg') bottom no-repeat;
+	background-size: contain;
+	position: absolute;
+	top:0px;
+	right: 0px;
+	left: 0px;
+	bottom: 0px;
+	opacity: 0.5
 }
 .hero h1 {
 	font-size: 120px;

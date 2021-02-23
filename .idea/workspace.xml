@@ -63,6 +63,7 @@
       <workItem from="1613899237178" duration="1035000" />
       <workItem from="1613900286027" duration="3545000" />
       <workItem from="1613915964459" duration="624000" />
+      <workItem from="1614004465251" duration="819000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1613493993586</created>
@@ -232,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613916185343</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="meta tag added">
+      <created>1614004675060</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1614004675060</updated>
+    </task>
+    <task id="LOCAL-00026" summary="meta tag added">
+      <created>1614005150173</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1614005150173</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +275,7 @@
     <MESSAGE value="smaller faster" />
     <MESSAGE value="faster" />
     <MESSAGE value="defer unneeded(or maybe needed) script" />
-    <option name="LAST_COMMIT_MESSAGE" value="defer unneeded(or maybe needed) script" />
+    <MESSAGE value="meta tag added" />
+    <option name="LAST_COMMIT_MESSAGE" value="meta tag added" />
   </component>
 </project>
