@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21dac2f4-df10-46fb-b0f3-f0501efbec0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/header-bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +64,7 @@
       <workItem from="1613900286027" duration="3545000" />
       <workItem from="1613915964459" duration="624000" />
       <workItem from="1614004465251" duration="819000" />
-      <workItem from="1614071661202" duration="10397000" />
+      <workItem from="1614071661202" duration="10749000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1613493993586</created>
@@ -278,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614086908879</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="more projects">
+      <created>1614089351826</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1614089351826</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,6 +316,7 @@
     <MESSAGE value="no opacity" />
     <MESSAGE value="color" />
     <MESSAGE value="update a loooot" />
-    <option name="LAST_COMMIT_MESSAGE" value="update a loooot" />
+    <MESSAGE value="more projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="more projects" />
   </component>
 </project>
