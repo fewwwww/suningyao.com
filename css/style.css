@@ -579,24 +579,24 @@ h1.arrow span {
 	background-size:cover;
 }
 .color-bg {
-	background: #2c969c;
+	background: #fbe4e9;
 }
 
 .color-bg a {
-    color: #e6b4f9;
+    color: #8e2a4b;
 }
 .color-bg h6, .color-bg p {
-    color: white;
+    color: #000000;
 }
 .color-bg h6::after{
-	border-color: #fff;
+	border-color: #000000;
 }
 .color-bg .weight-outline-btn {
-    color: white;
-    border-color: white;
+    color: #000000;
+    border-color: #000000;
 }
 .color-bg .weight-outline-btn:hover {
-  background: #FFF;
+  background: #000000;
   color: #E04343;
   border-color: rgba(0, 0, 0, 0);
 }
@@ -609,10 +609,10 @@ h1.arrow span {
 	color: #8C8C8C;
 }
 .color-bg h1.arrow span {
-    color: #d3c727;
+    color: #8e2a4b;
 }
 .color-bg h1.arrow {
-    color: #FFF;
+    color: #2b1908;
 }
 /* ==========================================================================Services========================================================================== */
 .services {
@@ -876,8 +876,8 @@ img.grayscale:hover {
 .outline-btn {
 	display:inline-block;
 	padding:25px 40px;
-	color: #FFE801;
-	border: solid 1px #FFE801;
+	color: #ffe384;
+	border: solid 1px #ffe384;
 	text-transform:uppercase;
 	font-weight:bold;
 	letter-spacing:1px;
@@ -885,7 +885,7 @@ img.grayscale:hover {
 .outline-btn:hover,.outline-btn:focus {
 	color: #E04343;
 	border: solid 1px #E04343;
-	background: #FFE801;
+	background: #ffe384;
 }
 .weight-outline-btn {
 	display:inline-block;
