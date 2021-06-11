@@ -1,4 +1,4 @@
-# Suning Yao's Portofolio Websit
+# Suning Yao's Portofolio Website
 `https://suningyao.com`
 `https://fewwwww.github.io/suningyao/`
 master is the old one, github pages is the server for fewwwww/portfolio
