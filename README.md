@@ -1,8 +1,8 @@
-# Suning Yao's Portofolio Website
+# Suning Yao's Portfolio Website
 `https://suningyao.com`
 `https://fewwwww.github.io/suningyao/`
-master is the old one, github pages is the server for fewwwww/portfolio
+master is the old one, github pages serves fewwwww/portfolio
 #### Old one used template from Themewagon
-#### New build created by https://github.com/dhruvkb/portfolio
+#### New portfolio originally created by https://github.com/dhruvkb/portfolio
 
 
