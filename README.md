@@ -3,6 +3,6 @@
 `https://fewwwww.github.io/suningyao/`
 master is the old one, github pages serves [fewwwww/portfolio](https://github.com/fewwwww/portfolio)
 #### Old one used template from Themewagon
-#### New portfolio originally created by @dhruvkbh
+#### New portfolio originally created by [@dhruvkb](https://github.com/dhruvkb/portfolio)
 
 
